@@ -18,8 +18,8 @@ def divide( a : float, b : float ) -> float:
     ''' This function divides two given floating points numbers
     '''
 
-    #   Remove this statement add a dividing here
-    raise NotImplementedError
+    return a/b 
+    
 
 ##########################################################################
 #   CLASS
